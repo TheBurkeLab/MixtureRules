@@ -6,7 +6,7 @@ Reference:
 
 [1] Lei Lei and Michael P. Burke. Bath gas mixture effects on multichannel reactions: Insights and representations for systems beyond single-channel reactions. Journal of Physical Chemistry A, 123(3): 631-649, 2019. 
 
-[2] Lei Lei and Michael P. Burke. Evaluating mixture rules and combustion implications for multi-component pressure dependence of allyl + HO$_2$ reactions. Proceedings of the Combustion Institute, 37(1): 355-362, 2019. 
+[2] Lei Lei and Michael P. Burke. Evaluating mixture rules and combustion implications for multi-component pressure dependence of allyl + HO2 reactions. Proceedings of the Combustion Institute, 37(1): 355-362, 2019. 
 
 [3] Lei Lei and Michael P. Burke. Dynamically evaluating mixture effects on multi-channel reactions in flames: A case study for the CH3 + OH reaction. Proceedings of the Combustion Institute, 38(1): 433-440, 2021. 
 
